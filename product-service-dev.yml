@@ -10,5 +10,5 @@ spring:
   application:
     name: product-service
 
-env: dev
+env: dev_2020
 branch: master
